@@ -28,5 +28,8 @@ A Sky Botlist ("Sky Botlist", "nós", "nosso") se compromete a proteger a privac
 - Enviar spam e propaganda indesejada fora de nossos serviços.
 - Compartilhar seus dados com terceiros sem o devido consentimento prévio.
 
+# Outras permissões
+Todos os bots em nossa plataforma foram enviados pelos seus respectivos donos e de forma voluntária, ao enviar seu bot em nossa plataforma, nós podemos usar o nome e a imagem dele para publicidae e/ou divulgação.
+
 # Suas escolhas
 - Caso não aceite as novas políticas de privacidade, você poderá ir em nosso discord pedir para parar de usar nossa plataforma, se fizer isso você será banido permanentemente de usar nossos serviços e em até 3 meses todos os seus dados exceto de votos e feedbacks serão apagados.
